@@ -16,4 +16,4 @@ kavupdate.com
 ngrok.io,
 ngrok.com,
 net.anydesk.com
-anydesk.com/
+anydesk.com
