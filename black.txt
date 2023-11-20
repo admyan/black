@@ -17,3 +17,7 @@ ngrok.io,
 ngrok.com,
 net.anydesk.com
 anydesk.com
+int.dewrain.life
+int.vaicore.xyz
+platinum-casino.ru
+co.dewrain.life
