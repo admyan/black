@@ -98,3 +98,10 @@ vaicore.xyz
 212.18.249.42
 216.239.36.108
 95.161.76.100
+dr22.biz
+int.akisinn.site
+94.130.246.106
+int.dewrain.site
+int.akisinn.info
+int.vaicore.site
+int.dewrain.life
