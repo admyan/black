@@ -5,9 +5,6 @@ avptp.com
 deadork.com
 saakashvili.com.ua
 ukr-net.website
-boot-02.net.anydesk.com
-boot-01.net.anydesk.com
-boot.net.anydesk.com
 172.67.205.75
 23.132.185.120
 185.117.73.169
@@ -95,8 +92,3 @@ stoloto.ai
 20.96.52.198/32
 20.99.186.246/32
 23.216.147.76/32
-37.10.71.78
-185.229.191.44
-57.128.101.75
-37.59.29.33
-49.12.130.236
