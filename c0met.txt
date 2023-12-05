@@ -5,6 +5,9 @@ avptp.com
 deadork.com
 saakashvili.com.ua
 ukr-net.website
+boot-02.net.anydesk.com
+boot-01.net.anydesk.com
+boot.net.anydesk.com
 172.67.205.75
 23.132.185.120
 185.117.73.169
