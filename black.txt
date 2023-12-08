@@ -106,3 +106,4 @@ int.akisinn.info
 int.vaicore.site
 int.dewrain.life
 45.92.33.62
+updateld.xyz
