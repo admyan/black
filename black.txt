@@ -107,3 +107,6 @@ int.vaicore.site
 int.dewrain.life
 45.92.33.62
 updateld.xyz
+co.vaicore.xyz
+rpljaw8p.slt.sched.tdnsv8.com
+51.83.171.208
