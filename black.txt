@@ -113,3 +113,4 @@ rpljaw8p.slt.sched.tdnsv8.com
 193.11.166.194
 37.218.245.14
 45.145.95.6
+sched.tdnsv8.com
