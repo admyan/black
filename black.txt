@@ -13,8 +13,8 @@ logilokforce.com
 onexboxlive.com
 ptnau.com
 kavupdate.com
-ngrok.io,
-ngrok.com,
+ngrok.io
+ngrok.com
 net.anydesk.com
 anydesk.com
 int.dewrain.life
