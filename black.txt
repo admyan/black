@@ -1,5 +1,3 @@
-﻿firebasestorage.googleapis.com
-gyddz445566.appspot.com
 now-registrar.org
 91.213.188.11
 146.75.121.73
